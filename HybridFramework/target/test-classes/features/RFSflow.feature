@@ -25,7 +25,7 @@ Feature: RFS
     And enter details of service
     And enter amount
     And click to send button
-    Then invoice should be recive in user's chat
+    Then invoice should be recive in user's chat Check user chat.
 
    Examples: 
       | Uid                  | Upass       | Sid                       | Spass  |
